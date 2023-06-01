@@ -1,1 +1,3 @@
-first commit
+## git&GitHub研修
+### 初めてのコミット
+- 初めてのコミット
